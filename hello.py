@@ -1,7 +1,6 @@
 # %%
-from pydantic_ai import Agent
-
 import nest_asyncio
+from pydantic_ai import Agent
 
 nest_asyncio.apply()
 
