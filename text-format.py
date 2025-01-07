@@ -1,6 +1,6 @@
 # %%
 import logfire
-import nest_asyncio
+import nest_asyncio  # type: ignore
 from pydantic_ai import Agent
 
 logfire.configure()
