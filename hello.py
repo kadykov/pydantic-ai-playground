@@ -1,5 +1,5 @@
 # %%
-import nest_asyncio
+import nest_asyncio  # type: ignore
 from pydantic_ai import Agent
 
 nest_asyncio.apply()
